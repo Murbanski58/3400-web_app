@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'murbanski-hw13'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_720E1174295A432F864DA8133F915E1F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4DF1CE3866664100B1CEDC2E428295F6 }}
